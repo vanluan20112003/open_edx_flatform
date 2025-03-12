@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/query-params.1afad6c3a7c5.js

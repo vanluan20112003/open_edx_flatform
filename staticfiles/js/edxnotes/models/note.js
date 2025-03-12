@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/edxnotes/models/note.a002c1baa62a.js

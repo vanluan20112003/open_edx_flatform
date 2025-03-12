@@ -1,0 +1,1 @@
+/openedx/staticfiles/studio/js/certificates/factories/certificates_page_factory.e25d6c0c093c.js

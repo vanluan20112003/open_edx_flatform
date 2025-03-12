@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/xmodule.discussion_block/js/src/video/10_commands.39c22d669874.js

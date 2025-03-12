@@ -1,0 +1,1 @@
+/openedx/staticfiles/studio-frontend/src/components/AssetsUploadConfirm/AssetsUploadConfirm.test.72715d7d0b6c.jsx

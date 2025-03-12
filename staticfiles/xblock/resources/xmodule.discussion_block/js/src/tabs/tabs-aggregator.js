@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/xmodule.discussion_block/js/src/tabs/tabs-aggregator.d7842ab69993.js

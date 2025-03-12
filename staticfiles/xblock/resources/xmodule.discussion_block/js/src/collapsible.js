@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/xmodule.discussion_block/js/src/collapsible.cf36fe3d0dd9.js

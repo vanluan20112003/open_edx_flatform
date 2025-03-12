@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/lti_consumer/translations/en/LC_MESSAGES/django.84c8f11a7965.po

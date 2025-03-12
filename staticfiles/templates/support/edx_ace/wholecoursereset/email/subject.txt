@@ -1,0 +1,1 @@
+/openedx/staticfiles/templates/support/edx_ace/wholecoursereset/email/subject.f2d3fc7f2c4e.txt

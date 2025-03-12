@@ -1,0 +1,1 @@
+/openedx/staticfiles/studio/js/views/edit_chapter.50f55bb431e6.js

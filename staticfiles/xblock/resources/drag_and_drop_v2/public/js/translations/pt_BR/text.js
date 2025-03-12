@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/drag_and_drop_v2/public/js/translations/pt_BR/text.7b26b82b0533.js

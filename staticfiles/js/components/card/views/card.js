@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/components/card/views/card.b07e7f87d7b9.js

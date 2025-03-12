@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/capa/drag_and_drop/config_parser.3d346e42d43a.js

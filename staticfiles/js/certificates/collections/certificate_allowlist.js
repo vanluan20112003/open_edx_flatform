@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/certificates/collections/certificate_allowlist.de553d2cf3e8.js

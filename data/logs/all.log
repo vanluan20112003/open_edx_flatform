@@ -1,0 +1,178 @@
+2025-03-11 04:56:52,242 WARNING 1 [py.warnings] [user None] [ip None] warnings.py:110 - /openedx/venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2025-03-11 04:56:52,782 INFO 1 [celery.worker.consumer.connection] [user None] [ip None] connection.py:22 - Connected to redis://redis:6379/0
+2025-03-11 04:56:52,783 WARNING 1 [py.warnings] [user None] [ip None] warnings.py:110 - /openedx/venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2025-03-11 04:56:52,787 INFO 1 [celery.worker.consumer.mingle] [user None] [ip None] mingle.py:40 - mingle: searching for neighbors
+2025-03-11 04:56:53,800 INFO 1 [celery.worker.consumer.mingle] [user None] [ip None] mingle.py:49 - mingle: all alone
+2025-03-11 04:56:53,851 INFO 1 [celery.apps.worker] [user None] [ip None] worker.py:175 - celery@edx.lms.core.default.%d3266c5b2354 ready.
+2025-03-11 05:01:11,351 WARNING 1 [py.warnings] [user None] [ip None] warnings.py:110 - /openedx/venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2025-03-11 05:01:11,384 INFO 1 [celery.worker.consumer.connection] [user None] [ip None] connection.py:22 - Connected to redis://redis:6379/0
+2025-03-11 05:01:11,386 WARNING 1 [py.warnings] [user None] [ip None] warnings.py:110 - /openedx/venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2025-03-11 05:01:11,391 INFO 1 [celery.worker.consumer.mingle] [user None] [ip None] mingle.py:40 - mingle: searching for neighbors
+2025-03-11 05:01:12,418 INFO 1 [celery.worker.consumer.mingle] [user None] [ip None] mingle.py:49 - mingle: all alone
+2025-03-11 05:01:12,449 INFO 1 [celery.apps.worker] [user None] [ip None] worker.py:175 - celery@edx.lms.core.default.%d3266c5b2354 ready.
+2025-03-11 05:14:48,051 INFO 10 [tracking] [user None] [ip 172.18.0.1] logger.py:41 - {"name": "/", "context": {"user_id": null, "path": "/", "course_id": "", "org_id": "", "enterprise_uuid": ""}, "username": "", "session": "", "ip": "172.18.0.1", "agent": "curl/7.68.0", "host": "www.myopenedx.com", "referer": "", "accept_language": "", "event": "{\"GET\": {}, \"POST\": {}}", "time": "2025-03-11T05:14:48.031904+00:00", "event_type": "/", "event_source": "server", "page": null}
+2025-03-11 05:14:55,597 INFO 10 [openedx.core.djangoapps.cors_csrf.helpers] [user None] [ip 172.18.0.1] helpers.py:64 - Origin None was not in `CORS_ORIGIN_WHITELIST`; full referer was None and requested host was 'www.myopenedx.com'; CORS_ORIGIN_ALLOW_ALL=False
+2025-03-11 05:14:56,705 INFO 10 [edx.footer] [user None] [ip 172.18.0.1] api.py:479 - images/logo.png
+2025-03-11 14:33:32,414 INFO 11 [tracking] [user None] [ip 172.18.0.1] logger.py:41 - {"name": "/", "context": {"user_id": null, "path": "/", "course_id": "", "org_id": "", "enterprise_uuid": ""}, "username": "", "session": "", "ip": "172.18.0.1", "agent": "curl/7.68.0", "host": "www.myopenedx.com", "referer": "", "accept_language": "", "event": "{\"GET\": {}, \"POST\": {}}", "time": "2025-03-11T14:33:32.397327+00:00", "event_type": "/", "event_source": "server", "page": null}
+2025-03-11 14:33:37,070 INFO 11 [openedx.core.djangoapps.cors_csrf.helpers] [user None] [ip 172.18.0.1] helpers.py:64 - Origin None was not in `CORS_ORIGIN_WHITELIST`; full referer was None and requested host was 'www.myopenedx.com'; CORS_ORIGIN_ALLOW_ALL=False
+2025-03-11 14:33:38,272 INFO 11 [edx.footer] [user None] [ip 172.18.0.1] api.py:479 - images/logo.png
+2025-03-11 14:37:47,971 WARNING 1 [py.warnings] [user None] [ip None] warnings.py:110 - /openedx/venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2025-03-11 14:37:48,079 INFO 1 [celery.worker.consumer.connection] [user None] [ip None] connection.py:22 - Connected to redis://redis:6379/0
+2025-03-11 14:37:48,080 WARNING 1 [py.warnings] [user None] [ip None] warnings.py:110 - /openedx/venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2025-03-11 14:37:48,083 INFO 1 [celery.worker.consumer.mingle] [user None] [ip None] mingle.py:40 - mingle: searching for neighbors
+2025-03-11 14:37:49,096 INFO 1 [celery.worker.consumer.mingle] [user None] [ip None] mingle.py:49 - mingle: all alone
+2025-03-11 14:37:49,160 INFO 1 [celery.apps.worker] [user None] [ip None] worker.py:175 - celery@edx.lms.core.default.%d3266c5b2354 ready.
+2025-03-11 14:42:31,930 WARNING 1 [py.warnings] [user None] [ip None] warnings.py:110 - /openedx/venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2025-03-11 14:42:32,056 INFO 1 [celery.worker.consumer.connection] [user None] [ip None] connection.py:22 - Connected to redis://redis:6379/0
+2025-03-11 14:42:32,057 WARNING 1 [py.warnings] [user None] [ip None] warnings.py:110 - /openedx/venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2025-03-11 14:42:32,064 INFO 1 [celery.worker.consumer.mingle] [user None] [ip None] mingle.py:40 - mingle: searching for neighbors
+2025-03-11 14:42:33,075 INFO 1 [celery.worker.consumer.mingle] [user None] [ip None] mingle.py:49 - mingle: all alone
+2025-03-11 14:42:33,106 INFO 1 [celery.apps.worker] [user None] [ip None] worker.py:175 - celery@edx.lms.core.default.%d3266c5b2354 ready.
+2025-03-11 14:43:22,010 INFO 9 [tracking] [user None] [ip 172.18.0.1] logger.py:41 - {"name": "/", "context": {"user_id": null, "path": "/", "course_id": "", "org_id": "", "enterprise_uuid": ""}, "username": "", "session": "", "ip": "172.18.0.1", "agent": "curl/7.68.0", "host": "www.myopenedx.com:8001", "referer": "", "accept_language": "", "event": "{\"GET\": {}, \"POST\": {}}", "time": "2025-03-11T14:43:22.004976+00:00", "event_type": "/", "event_source": "server", "page": null}
+2025-03-11 14:43:28,757 INFO 9 [openedx.core.djangoapps.cors_csrf.helpers] [user None] [ip 172.18.0.1] helpers.py:64 - Origin None was not in `CORS_ORIGIN_WHITELIST`; full referer was None and requested host was 'www.myopenedx.com:8001'; CORS_ORIGIN_ALLOW_ALL=False
+2025-03-11 14:43:30,147 INFO 9 [edx.footer] [user None] [ip 172.18.0.1] api.py:479 - images/logo.png
+2025-03-11 14:47:08,031 WARNING 1 [py.warnings] [user None] [ip None] warnings.py:110 - /openedx/venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2025-03-11 14:47:08,438 INFO 1 [celery.worker.consumer.connection] [user None] [ip None] connection.py:22 - Connected to redis://redis:6379/0
+2025-03-11 14:47:08,439 WARNING 1 [py.warnings] [user None] [ip None] warnings.py:110 - /openedx/venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2025-03-11 14:47:08,452 INFO 1 [celery.worker.consumer.mingle] [user None] [ip None] mingle.py:40 - mingle: searching for neighbors
+2025-03-11 14:47:09,473 INFO 1 [celery.worker.consumer.mingle] [user None] [ip None] mingle.py:49 - mingle: all alone
+2025-03-11 14:47:09,519 INFO 1 [celery.apps.worker] [user None] [ip None] worker.py:175 - celery@edx.lms.core.default.%d3266c5b2354 ready.
+2025-03-11 15:11:36,868 WARNING 1 [py.warnings] [user None] [ip None] warnings.py:110 - /openedx/venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2025-03-11 15:11:36,903 INFO 1 [celery.worker.consumer.connection] [user None] [ip None] connection.py:22 - Connected to redis://redis:6379/0
+2025-03-11 15:11:36,904 WARNING 1 [py.warnings] [user None] [ip None] warnings.py:110 - /openedx/venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2025-03-11 15:11:36,917 INFO 1 [celery.worker.consumer.mingle] [user None] [ip None] mingle.py:40 - mingle: searching for neighbors
+2025-03-11 15:11:37,987 INFO 1 [celery.worker.consumer.mingle] [user None] [ip None] mingle.py:49 - mingle: all alone
+2025-03-11 15:11:38,021 INFO 1 [celery.apps.worker] [user None] [ip None] worker.py:175 - celery@edx.lms.core.default.%d3266c5b2354 ready.
+2025-03-11 15:14:38,721 WARNING 1 [py.warnings] [user None] [ip None] warnings.py:110 - /openedx/venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2025-03-11 15:14:39,127 INFO 1 [celery.worker.consumer.connection] [user None] [ip None] connection.py:22 - Connected to redis://redis:6379/0
+2025-03-11 15:14:39,128 WARNING 1 [py.warnings] [user None] [ip None] warnings.py:110 - /openedx/venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2025-03-11 15:14:39,130 INFO 1 [celery.worker.consumer.mingle] [user None] [ip None] mingle.py:40 - mingle: searching for neighbors
+2025-03-11 15:14:40,146 INFO 1 [celery.worker.consumer.mingle] [user None] [ip None] mingle.py:49 - mingle: all alone
+2025-03-11 15:14:40,173 INFO 1 [celery.apps.worker] [user None] [ip None] worker.py:175 - celery@edx.lms.core.default.%d3266c5b2354 ready.
+2025-03-11 15:16:20,758 INFO 11 [tracking] [user None] [ip 42.118.136.187] logger.py:41 - {"name": "/", "context": {"user_id": null, "path": "/", "course_id": "", "org_id": "", "enterprise_uuid": ""}, "username": "", "session": "", "ip": "42.118.136.187", "agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36", "host": "103.88.123.113:8001", "referer": "", "accept_language": "vi-VN,vi;q=0.9,fr-FR;q=0.8,fr;q=0.7,en-US;q=0.6,en;q=0.5", "event": "{\"GET\": {}, \"POST\": {}}", "time": "2025-03-11T15:16:20.744410+00:00", "event_type": "/", "event_source": "server", "page": null}
+2025-03-11 15:16:28,300 INFO 11 [openedx.core.djangoapps.cors_csrf.helpers] [user None] [ip 42.118.136.187] helpers.py:64 - Origin None was not in `CORS_ORIGIN_WHITELIST`; full referer was None and requested host was '103.88.123.113:8001'; CORS_ORIGIN_ALLOW_ALL=False
+2025-03-11 15:16:29,597 INFO 11 [edx.footer] [user None] [ip 42.118.136.187] api.py:479 - images/logo.png
+2025-03-11 15:24:19,601 WARNING 1 [py.warnings] [user None] [ip None] warnings.py:110 - /openedx/venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2025-03-11 15:24:19,894 INFO 1 [celery.worker.consumer.connection] [user None] [ip None] connection.py:22 - Connected to redis://redis:6379/0
+2025-03-11 15:24:19,895 WARNING 1 [py.warnings] [user None] [ip None] warnings.py:110 - /openedx/venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2025-03-11 15:24:19,898 INFO 1 [celery.worker.consumer.mingle] [user None] [ip None] mingle.py:40 - mingle: searching for neighbors
+2025-03-11 15:24:20,928 INFO 1 [celery.worker.consumer.mingle] [user None] [ip None] mingle.py:49 - mingle: all alone
+2025-03-11 15:24:20,991 INFO 1 [celery.apps.worker] [user None] [ip None] worker.py:175 - celery@edx.lms.core.default.%d3266c5b2354 ready.
+2025-03-11 15:26:01,955 INFO 9 [tracking] [user None] [ip 42.118.136.187] logger.py:41 - {"name": "/", "context": {"user_id": null, "path": "/", "course_id": "", "org_id": "", "enterprise_uuid": ""}, "username": "", "session": "7d97e871dc93902a27bb079903df0d9f", "ip": "42.118.136.187", "agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36", "host": "103.88.123.113:8001", "referer": "", "accept_language": "vi-VN,vi;q=0.9,fr-FR;q=0.8,fr;q=0.7,en-US;q=0.6,en;q=0.5", "event": "{\"GET\": {}, \"POST\": {}}", "time": "2025-03-11T15:26:01.934720+00:00", "event_type": "/", "event_source": "server", "page": null}
+2025-03-11 15:26:10,406 INFO 9 [openedx.core.djangoapps.cors_csrf.helpers] [user None] [ip 42.118.136.187] helpers.py:64 - Origin None was not in `CORS_ORIGIN_WHITELIST`; full referer was None and requested host was '103.88.123.113:8001'; CORS_ORIGIN_ALLOW_ALL=False
+2025-03-11 15:26:11,621 INFO 9 [edx.footer] [user None] [ip 42.118.136.187] api.py:479 - images/logo.png
+2025-03-11 15:26:15,039 INFO 10 [tracking] [user None] [ip 42.118.136.187] logger.py:41 - {"name": "/register", "context": {"user_id": null, "path": "/register", "course_id": "", "org_id": "", "enterprise_uuid": ""}, "username": "", "session": "7d97e871dc93902a27bb079903df0d9f", "ip": "42.118.136.187", "agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36", "host": "103.88.123.113:8001", "referer": "http://103.88.123.113:8001/", "accept_language": "vi-VN,vi;q=0.9,fr-FR;q=0.8,fr;q=0.7,en-US;q=0.6,en;q=0.5", "event": "{\"GET\": {\"next\": [\"/\"]}, \"POST\": {}}", "time": "2025-03-11T15:26:15.037805+00:00", "event_type": "/register", "event_source": "server", "page": null}
+2025-03-11 15:26:16,140 INFO 10 [openedx.core.djangoapps.cors_csrf.helpers] [user None] [ip 42.118.136.187] helpers.py:64 - Origin 'http://103.88.123.113:8001' was not in `CORS_ORIGIN_WHITELIST`; full referer was 'http://103.88.123.113:8001/' and requested host was '103.88.123.113:8001'; CORS_ORIGIN_ALLOW_ALL=False
+2025-03-11 15:26:34,427 INFO 9 [tracking] [user None] [ip 42.118.136.187] logger.py:41 - {"name": "/", "context": {"user_id": null, "path": "/", "course_id": "", "org_id": "", "enterprise_uuid": ""}, "username": "", "session": "7d97e871dc93902a27bb079903df0d9f", "ip": "42.118.136.187", "agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36", "host": "103.88.123.113:8001", "referer": "", "accept_language": "vi-VN,vi;q=0.9,fr-FR;q=0.8,fr;q=0.7,en-US;q=0.6,en;q=0.5", "event": "{\"GET\": {}, \"POST\": {}}", "time": "2025-03-11T15:26:34.426781+00:00", "event_type": "/", "event_source": "server", "page": null}
+2025-03-11 15:26:34,437 INFO 9 [openedx.core.djangoapps.cors_csrf.helpers] [user None] [ip 42.118.136.187] helpers.py:64 - Origin None was not in `CORS_ORIGIN_WHITELIST`; full referer was None and requested host was '103.88.123.113:8001'; CORS_ORIGIN_ALLOW_ALL=False
+2025-03-11 15:26:36,424 INFO 10 [openedx.core.djangoapps.cors_csrf.helpers] [user None] [ip 42.118.136.187] helpers.py:64 - Origin 'http://103.88.123.113:8001' was not in `CORS_ORIGIN_WHITELIST`; full referer was 'http://103.88.123.113:8001/' and requested host was '103.88.123.113:8001'; CORS_ORIGIN_ALLOW_ALL=False
+2025-03-11 15:28:31,412 INFO 9 [tracking] [user None] [ip 42.118.136.187] logger.py:41 - {"name": "/", "context": {"user_id": null, "path": "/", "course_id": "", "org_id": "", "enterprise_uuid": ""}, "username": "", "session": "7d97e871dc93902a27bb079903df0d9f", "ip": "42.118.136.187", "agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36", "host": "103.88.123.113:8001", "referer": "", "accept_language": "vi-VN,vi;q=0.9,fr-FR;q=0.8,fr;q=0.7,en-US;q=0.6,en;q=0.5", "event": "{\"GET\": {}, \"POST\": {}}", "time": "2025-03-11T15:28:31.411918+00:00", "event_type": "/", "event_source": "server", "page": null}
+2025-03-11 15:28:31,416 INFO 9 [openedx.core.djangoapps.cors_csrf.helpers] [user None] [ip 42.118.136.187] helpers.py:64 - Origin None was not in `CORS_ORIGIN_WHITELIST`; full referer was None and requested host was '103.88.123.113:8001'; CORS_ORIGIN_ALLOW_ALL=False
+2025-03-11 15:32:49,070 INFO 10 [tracking] [user None] [ip 42.118.136.187] logger.py:41 - {"name": "/", "context": {"user_id": null, "path": "/", "course_id": "", "org_id": "", "enterprise_uuid": ""}, "username": "", "session": "7d97e871dc93902a27bb079903df0d9f", "ip": "42.118.136.187", "agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36", "host": "103.88.123.113:8001", "referer": "", "accept_language": "vi-VN,vi;q=0.9,fr-FR;q=0.8,fr;q=0.7,en-US;q=0.6,en;q=0.5", "event": "{\"GET\": {}, \"POST\": {}}", "time": "2025-03-11T15:32:49.070550+00:00", "event_type": "/", "event_source": "server", "page": null}
+2025-03-11 15:32:49,075 INFO 10 [openedx.core.djangoapps.cors_csrf.helpers] [user None] [ip 42.118.136.187] helpers.py:64 - Origin None was not in `CORS_ORIGIN_WHITELIST`; full referer was None and requested host was '103.88.123.113:8001'; CORS_ORIGIN_ALLOW_ALL=False
+2025-03-11 15:32:49,941 INFO 10 [edx.footer] [user None] [ip 42.118.136.187] api.py:479 - images/logo.png
+2025-03-11 15:32:54,929 INFO 9 [tracking] [user None] [ip 42.118.136.187] logger.py:41 - {"name": "/courses", "context": {"user_id": null, "path": "/courses", "course_id": "", "org_id": "", "enterprise_uuid": ""}, "username": "", "session": "7d97e871dc93902a27bb079903df0d9f", "ip": "42.118.136.187", "agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36", "host": "103.88.123.113:8001", "referer": "http://103.88.123.113:8001/", "accept_language": "vi-VN,vi;q=0.9,fr-FR;q=0.8,fr;q=0.7,en-US;q=0.6,en;q=0.5", "event": "{\"GET\": {\"search_query\": [\"\"]}, \"POST\": {}}", "time": "2025-03-11T15:32:54.928605+00:00", "event_type": "/courses", "event_source": "server", "page": null}
+2025-03-11 15:32:54,935 INFO 9 [openedx.core.djangoapps.cors_csrf.helpers] [user None] [ip 42.118.136.187] helpers.py:64 - Origin 'http://103.88.123.113:8001' was not in `CORS_ORIGIN_WHITELIST`; full referer was 'http://103.88.123.113:8001/' and requested host was '103.88.123.113:8001'; CORS_ORIGIN_ALLOW_ALL=False
+2025-03-11 15:32:54,977 INFO 9 [edx.footer] [user None] [ip 42.118.136.187] api.py:479 - images/logo.png
+2025-03-11 15:32:55,620 INFO 10 [tracking] [user None] [ip 42.118.136.187] logger.py:41 - {"name": "/search/course_discovery/", "context": {"user_id": null, "path": "/search/course_discovery/", "course_id": "", "org_id": "", "enterprise_uuid": ""}, "username": "", "session": "7d97e871dc93902a27bb079903df0d9f", "ip": "42.118.136.187", "agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36", "host": "103.88.123.113:8001", "referer": "http://103.88.123.113:8001/courses?search_query=", "accept_language": "vi-VN,vi;q=0.9,fr-FR;q=0.8,fr;q=0.7,en-US;q=0.6,en;q=0.5", "event": "{\"GET\": {}, \"POST\": {\"search_string\": [\"\"], \"page_size\": [\"20\"], \"page_index\": [\"0\"]}}", "time": "2025-03-11T15:32:55.620693+00:00", "event_type": "/search/course_discovery/", "event_source": "server", "page": null}
+2025-03-11 15:32:55,625 INFO 10 [openedx.core.djangoapps.cors_csrf.helpers] [user None] [ip 42.118.136.187] helpers.py:64 - Origin 'http://103.88.123.113:8001' was not in `CORS_ORIGIN_WHITELIST`; full referer was 'http://103.88.123.113:8001/courses?search_query=' and requested host was '103.88.123.113:8001'; CORS_ORIGIN_ALLOW_ALL=False
+2025-03-11 15:32:55,626 INFO 10 [tracking] [user None] [ip 42.118.136.187] logger.py:41 - {"name": "edx.course_discovery.search.initiated", "context": {"user_id": null, "path": "/search/course_discovery/", "course_id": "", "org_id": "", "enterprise_uuid": ""}, "username": "", "session": "7d97e871dc93902a27bb079903df0d9f", "ip": "42.118.136.187", "agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36", "host": "103.88.123.113:8001", "referer": "http://103.88.123.113:8001/courses?search_query=", "accept_language": "vi-VN,vi;q=0.9,fr-FR;q=0.8,fr;q=0.7,en-US;q=0.6,en;q=0.5", "event": {"search_term": "", "page_size": 20, "page_number": 0}, "time": "2025-03-11T15:32:55.626333+00:00", "event_type": "edx.course_discovery.search.initiated", "event_source": "server", "page": null}
+2025-03-11 15:32:55,862 INFO 10 [elasticsearch] [user None] [ip 42.118.136.187] base.py:270 - PUT http://elasticsearch:9200/course_info [status:200 request:0.112s]
+2025-03-11 15:32:55,916 INFO 10 [elasticsearch] [user None] [ip 42.118.136.187] base.py:270 - POST http://elasticsearch:9200/course_info/_search?size=20&from=0 [status:200 request:0.052s]
+2025-03-11 15:32:55,917 INFO 10 [tracking] [user None] [ip 42.118.136.187] logger.py:41 - {"name": "edx.course_discovery.search.results_displayed", "context": {"user_id": null, "path": "/search/course_discovery/", "course_id": "", "org_id": "", "enterprise_uuid": ""}, "username": "", "session": "7d97e871dc93902a27bb079903df0d9f", "ip": "42.118.136.187", "agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36", "host": "103.88.123.113:8001", "referer": "http://103.88.123.113:8001/courses?search_query=", "accept_language": "vi-VN,vi;q=0.9,fr-FR;q=0.8,fr;q=0.7,en-US;q=0.6,en;q=0.5", "event": {"search_term": "", "page_size": 20, "page_number": 0, "results_count": 0}, "time": "2025-03-11T15:32:55.916900+00:00", "event_type": "edx.course_discovery.search.results_displayed", "event_source": "server", "page": null}
+2025-03-11 15:32:55,952 INFO 9 [tracking] [user None] [ip 42.118.136.187] logger.py:41 - {"name": "/search/course_discovery/", "context": {"user_id": null, "path": "/search/course_discovery/", "course_id": "", "org_id": "", "enterprise_uuid": ""}, "username": "", "session": "7d97e871dc93902a27bb079903df0d9f", "ip": "42.118.136.187", "agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36", "host": "103.88.123.113:8001", "referer": "http://103.88.123.113:8001/courses?search_query=", "accept_language": "vi-VN,vi;q=0.9,fr-FR;q=0.8,fr;q=0.7,en-US;q=0.6,en;q=0.5", "event": "{\"GET\": {}, \"POST\": {\"search_string\": [\"\"], \"page_size\": [\"20\"], \"page_index\": [\"0\"]}}", "time": "2025-03-11T15:32:55.952192+00:00", "event_type": "/search/course_discovery/", "event_source": "server", "page": null}
+2025-03-11 15:32:55,957 INFO 9 [openedx.core.djangoapps.cors_csrf.helpers] [user None] [ip 42.118.136.187] helpers.py:64 - Origin 'http://103.88.123.113:8001' was not in `CORS_ORIGIN_WHITELIST`; full referer was 'http://103.88.123.113:8001/courses?search_query=' and requested host was '103.88.123.113:8001'; CORS_ORIGIN_ALLOW_ALL=False
+2025-03-11 15:32:55,958 INFO 9 [tracking] [user None] [ip 42.118.136.187] logger.py:41 - {"name": "edx.course_discovery.search.initiated", "context": {"user_id": null, "path": "/search/course_discovery/", "course_id": "", "org_id": "", "enterprise_uuid": ""}, "username": "", "session": "7d97e871dc93902a27bb079903df0d9f", "ip": "42.118.136.187", "agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36", "host": "103.88.123.113:8001", "referer": "http://103.88.123.113:8001/courses?search_query=", "accept_language": "vi-VN,vi;q=0.9,fr-FR;q=0.8,fr;q=0.7,en-US;q=0.6,en;q=0.5", "event": {"search_term": "", "page_size": 20, "page_number": 0}, "time": "2025-03-11T15:32:55.957904+00:00", "event_type": "edx.course_discovery.search.initiated", "event_source": "server", "page": null}
+2025-03-11 15:32:55,976 INFO 9 [elasticsearch] [user None] [ip 42.118.136.187] base.py:270 - HEAD http://elasticsearch:9200/course_info [status:200 request:0.010s]
+2025-03-11 15:32:55,985 INFO 9 [elasticsearch] [user None] [ip 42.118.136.187] base.py:270 - POST http://elasticsearch:9200/course_info/_search?size=20&from=0 [status:200 request:0.008s]
+2025-03-11 15:32:55,985 INFO 9 [tracking] [user None] [ip 42.118.136.187] logger.py:41 - {"name": "edx.course_discovery.search.results_displayed", "context": {"user_id": null, "path": "/search/course_discovery/", "course_id": "", "org_id": "", "enterprise_uuid": ""}, "username": "", "session": "7d97e871dc93902a27bb079903df0d9f", "ip": "42.118.136.187", "agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36", "host": "103.88.123.113:8001", "referer": "http://103.88.123.113:8001/courses?search_query=", "accept_language": "vi-VN,vi;q=0.9,fr-FR;q=0.8,fr;q=0.7,en-US;q=0.6,en;q=0.5", "event": {"search_term": "", "page_size": 20, "page_number": 0, "results_count": 0}, "time": "2025-03-11T15:32:55.985633+00:00", "event_type": "edx.course_discovery.search.results_displayed", "event_source": "server", "page": null}
+2025-03-11 15:33:01,485 INFO 10 [tracking] [user None] [ip 42.118.136.187] logger.py:41 - {"name": "/dashboard", "context": {"user_id": null, "path": "/dashboard", "course_id": "", "org_id": "", "enterprise_uuid": ""}, "username": "", "session": "7d97e871dc93902a27bb079903df0d9f", "ip": "42.118.136.187", "agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36", "host": "103.88.123.113:8001", "referer": "http://103.88.123.113:8001/courses?search_query=", "accept_language": "vi-VN,vi;q=0.9,fr-FR;q=0.8,fr;q=0.7,en-US;q=0.6,en;q=0.5", "event": "{\"GET\": {}, \"POST\": {}}", "time": "2025-03-11T15:33:01.485089+00:00", "event_type": "/dashboard", "event_source": "server", "page": null}
+2025-03-11 15:33:01,491 INFO 10 [openedx.core.djangoapps.cors_csrf.helpers] [user None] [ip 42.118.136.187] helpers.py:64 - Origin 'http://103.88.123.113:8001' was not in `CORS_ORIGIN_WHITELIST`; full referer was 'http://103.88.123.113:8001/courses?search_query=' and requested host was '103.88.123.113:8001'; CORS_ORIGIN_ALLOW_ALL=False
+2025-03-11 15:33:01,533 INFO 9 [openedx.core.djangoapps.cors_csrf.helpers] [user None] [ip 42.118.136.187] helpers.py:64 - Origin 'http://103.88.123.113:8001' was not in `CORS_ORIGIN_WHITELIST`; full referer was 'http://103.88.123.113:8001/courses?search_query=' and requested host was '103.88.123.113:8001'; CORS_ORIGIN_ALLOW_ALL=False
+2025-03-11 15:33:02,284 INFO 10 [tracking] [user None] [ip 42.118.136.187] logger.py:41 - {"name": "/", "context": {"user_id": null, "path": "/", "course_id": "", "org_id": "", "enterprise_uuid": ""}, "username": "", "session": "7d97e871dc93902a27bb079903df0d9f", "ip": "42.118.136.187", "agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36", "host": "103.88.123.113:8001", "referer": "", "accept_language": "vi-VN,vi;q=0.9,fr-FR;q=0.8,fr;q=0.7,en-US;q=0.6,en;q=0.5", "event": "{\"GET\": {}, \"POST\": {}}", "time": "2025-03-11T15:33:02.284222+00:00", "event_type": "/", "event_source": "server", "page": null}
+2025-03-11 15:33:02,288 INFO 10 [openedx.core.djangoapps.cors_csrf.helpers] [user None] [ip 42.118.136.187] helpers.py:64 - Origin None was not in `CORS_ORIGIN_WHITELIST`; full referer was None and requested host was '103.88.123.113:8001'; CORS_ORIGIN_ALLOW_ALL=False
+2025-03-11 18:32:42,523 INFO 9 [tracking] [user None] [ip 104.234.115.188] logger.py:41 - {"name": "/", "context": {"user_id": null, "path": "/", "course_id": "", "org_id": "", "enterprise_uuid": ""}, "username": "", "session": "", "ip": "104.234.115.188", "agent": "'Mozilla/5.0 (compatible; GenomeCrawlerd/1.0; +https://www.nokia.com/genomecrawler)'", "host": "103.88.123.113:8001", "referer": "", "accept_language": "", "event": "{\"GET\": {}, \"POST\": {}}", "time": "2025-03-11T18:32:42.522655+00:00", "event_type": "/", "event_source": "server", "page": null}
+2025-03-11 18:32:42,544 INFO 9 [openedx.core.djangoapps.cors_csrf.helpers] [user None] [ip 104.234.115.188] helpers.py:64 - Origin None was not in `CORS_ORIGIN_WHITELIST`; full referer was None and requested host was '103.88.123.113:8001'; CORS_ORIGIN_ALLOW_ALL=False
+2025-03-11 18:32:42,585 INFO 9 [edx.footer] [user None] [ip 104.234.115.188] api.py:479 - images/logo.png
+2025-03-11 18:34:50,353 INFO 10 [tracking] [user None] [ip 104.234.115.188] logger.py:41 - {"name": "/favicon.ico", "context": {"user_id": null, "path": "/favicon.ico", "course_id": "", "org_id": "", "enterprise_uuid": ""}, "username": "", "session": "", "ip": "104.234.115.188", "agent": "'Mozilla/5.0 (compatible; GenomeCrawlerd/1.0; +https://www.nokia.com/genomecrawler)'", "host": "103.88.123.113:8001", "referer": "", "accept_language": "", "event": "{\"GET\": {}, \"POST\": {}}", "time": "2025-03-11T18:34:50.352322+00:00", "event_type": "/favicon.ico", "event_source": "server", "page": null}
+2025-03-11 18:34:50,367 INFO 10 [openedx.core.djangoapps.cors_csrf.helpers] [user None] [ip 104.234.115.188] helpers.py:64 - Origin None was not in `CORS_ORIGIN_WHITELIST`; full referer was None and requested host was '103.88.123.113:8001'; CORS_ORIGIN_ALLOW_ALL=False

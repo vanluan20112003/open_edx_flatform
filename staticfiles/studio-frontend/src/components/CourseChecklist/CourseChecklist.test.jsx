@@ -1,0 +1,1 @@
+/openedx/staticfiles/studio-frontend/src/components/CourseChecklist/CourseChecklist.test.5ec4885743f7.jsx

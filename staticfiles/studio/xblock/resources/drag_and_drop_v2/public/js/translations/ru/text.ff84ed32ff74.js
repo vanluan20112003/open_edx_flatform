@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/drag_and_drop_v2/public/js/translations/ru/text.ff84ed32ff74.js

@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/xmodule.discussion_block/js/src/raw/edit/metadata-only.8723f83c97a3.js

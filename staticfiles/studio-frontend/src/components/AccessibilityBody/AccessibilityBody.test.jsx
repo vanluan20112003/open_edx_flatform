@@ -1,0 +1,1 @@
+/openedx/staticfiles/studio-frontend/src/components/AccessibilityBody/AccessibilityBody.test.c54e1cb24998.jsx

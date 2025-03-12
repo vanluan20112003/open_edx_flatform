@@ -1,0 +1,1 @@
+/openedx/staticfiles/studio/js/views/video/transcripts/editor.5df9b64be362.js

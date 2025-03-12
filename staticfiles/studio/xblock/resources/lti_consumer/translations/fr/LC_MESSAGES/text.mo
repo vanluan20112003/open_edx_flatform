@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/lti_consumer/translations/fr/LC_MESSAGES/text.5f49e31a4959.mo

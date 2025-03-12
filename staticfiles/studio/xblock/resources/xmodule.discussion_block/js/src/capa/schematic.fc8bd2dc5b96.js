@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/xmodule.discussion_block/js/src/capa/schematic.fc8bd2dc5b96.js

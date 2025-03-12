@@ -1,0 +1,1 @@
+/openedx/staticfiles/support/js/collections/certificate.8c01ad3d6bb5.js

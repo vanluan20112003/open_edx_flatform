@@ -1,0 +1,1 @@
+/openedx/staticfiles/studio/js/views/video_transcripts.c5146695d8fd.js

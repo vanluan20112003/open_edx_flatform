@@ -1,0 +1,42 @@
+{
+  "name": "@edx/stylelint-config-edx",
+  "version": "2.2.0",
+  "description": "Stylelint configs for edX Sass files.",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edx/stylelint-config-edx.git"
+  },
+  "keywords": [
+    "edx",
+    "linter",
+    "sass",
+    "stylelint",
+    "stylelint-config"
+  ],
+  "homepage": "https://github.com/edx/edx-stylelint-config-edx#readme",
+  "dependencies": {
+    "stylelint": "^14.5.0",
+    "stylelint-config-recommended-scss": "^5.0.2",
+    "stylelint-config-standard": "^25.0.0",
+    "stylelint-scss": "^4.1.0"
+  },
+  "main": "stylelint.config.js",
+  "files": [
+    "stylelint.config.js"
+  ],
+  "scripts": {
+    "lint-js": "eslint . --ignore-path .gitignore",
+    "quality": "npm run lint-js",
+    "test": "npm run quality"
+  },
+  "devDependencies": {
+    "@edx/eslint-config": "^3.0.0",
+    "eslint": "^8.14.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-react": "^7.29.4",
+    "eslint-plugin-react-hooks": "^4.5.0"
+  }
+}

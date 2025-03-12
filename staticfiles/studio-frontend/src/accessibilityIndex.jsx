@@ -1,0 +1,1 @@
+/openedx/staticfiles/studio-frontend/src/accessibilityIndex.e1bd83eebd8f.jsx

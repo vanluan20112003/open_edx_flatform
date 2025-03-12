@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/wiki/accessible.3dd689b8a744.js

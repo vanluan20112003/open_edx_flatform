@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/capa/design-protein-2d.df2616cca713.js

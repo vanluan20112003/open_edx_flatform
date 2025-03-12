@@ -1,0 +1,1 @@
+/openedx/staticfiles/studio/js/models/settings/course_grading_policy.bf23e6275687.js

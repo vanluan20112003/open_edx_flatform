@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/edxnotes/utils/notes_collector.59793e508eb5.js

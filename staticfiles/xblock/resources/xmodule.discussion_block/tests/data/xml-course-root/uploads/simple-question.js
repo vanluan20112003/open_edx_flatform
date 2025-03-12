@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/xmodule.discussion_block/tests/data/xml-course-root/uploads/simple-question.3d7a401e65a6.js

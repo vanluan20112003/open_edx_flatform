@@ -1,0 +1,1 @@
+/openedx/staticfiles/studio-frontend/src/components/CourseOutlineStatusValue/CourseOutlineStatusValue.test.87f2352a4214.jsx

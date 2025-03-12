@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/certificates/models/certificate_invalidation.983ce070b39b.js

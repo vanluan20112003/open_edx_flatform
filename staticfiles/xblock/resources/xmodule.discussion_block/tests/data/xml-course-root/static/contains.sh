@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/xmodule.discussion_block/tests/data/xml-course-root/static/contains.c201223a7780.sh

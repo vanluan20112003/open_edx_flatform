@@ -1,0 +1,1 @@
+/openedx/staticfiles/studio-frontend/src/components/AccessibilityPolicyPage/AccessibilityPolicyPage.test.df3917d7f943.jsx

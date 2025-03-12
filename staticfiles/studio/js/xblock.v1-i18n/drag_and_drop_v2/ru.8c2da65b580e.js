@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/xblock.v1-i18n/drag_and_drop_v2/ru.8c2da65b580e.js

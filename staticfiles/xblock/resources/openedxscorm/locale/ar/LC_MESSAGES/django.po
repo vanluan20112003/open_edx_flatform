@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/openedxscorm/locale/ar/LC_MESSAGES/django.3a7f1077f19e.po

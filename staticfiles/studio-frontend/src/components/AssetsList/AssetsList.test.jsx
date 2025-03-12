@@ -1,0 +1,1 @@
+/openedx/staticfiles/studio-frontend/src/components/AssetsList/AssetsList.test.e8ba347af022.jsx

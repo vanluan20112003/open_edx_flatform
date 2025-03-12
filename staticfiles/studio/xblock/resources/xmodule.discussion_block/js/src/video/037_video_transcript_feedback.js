@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/xmodule.discussion_block/js/src/video/037_video_transcript_feedback.02f0647a2ac9.js

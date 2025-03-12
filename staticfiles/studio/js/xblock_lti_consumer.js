@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/xblock_lti_consumer.54d7410397aa.js

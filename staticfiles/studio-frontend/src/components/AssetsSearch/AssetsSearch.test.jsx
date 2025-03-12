@@ -1,0 +1,1 @@
+/openedx/staticfiles/studio-frontend/src/components/AssetsSearch/AssetsSearch.test.8f0b8a092bdc.jsx

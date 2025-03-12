@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/certificates/views/certificate_bulk_allowlist.5cfff936e021.js

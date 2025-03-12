@@ -1,0 +1,1 @@
+/openedx/staticfiles/studio-frontend/src/components/AssetsDropZone/AssetsDropZone.test.b2e5e2b92728.jsx

@@ -1,0 +1,1 @@
+/openedx/staticfiles/studio/js/views/utils/tagging_drawer_utils.fbf92a354375.js

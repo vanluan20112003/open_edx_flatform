@@ -1,0 +1,1 @@
+/openedx/staticfiles/studio-frontend/src/components/AssetsDropZone/index.bc66661e65ae.jsx

@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/xmodule.discussion_block/js/src/video/04_video_full_screen.6a337f5a0df9.js

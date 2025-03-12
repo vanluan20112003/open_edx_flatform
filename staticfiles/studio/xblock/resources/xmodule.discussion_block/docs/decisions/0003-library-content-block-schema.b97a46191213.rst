@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/xmodule.discussion_block/docs/decisions/0003-library-content-block-schema.b97a46191213.rst

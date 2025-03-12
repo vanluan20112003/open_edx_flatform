@@ -1,0 +1,1 @@
+/openedx/staticfiles/common/js/components/BlockBrowser/components/BlockBrowser/BlockBrowser.test.e821f24b6376.jsx

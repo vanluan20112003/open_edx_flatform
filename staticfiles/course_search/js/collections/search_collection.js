@@ -1,0 +1,1 @@
+/openedx/staticfiles/course_search/js/collections/search_collection.062bf81d4888.js

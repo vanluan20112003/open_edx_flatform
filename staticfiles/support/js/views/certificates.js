@@ -1,0 +1,1 @@
+/openedx/staticfiles/support/js/views/certificates.bffa966a86ca.js

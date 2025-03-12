@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/lti_consumer/public/js/translations/fr/text.42b6435e4d8b.js

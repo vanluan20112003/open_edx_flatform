@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/edxnotes/views/note_item.6c016224d0f6.js

@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/capa/drag_and_drop.27c67ebfad0e.js

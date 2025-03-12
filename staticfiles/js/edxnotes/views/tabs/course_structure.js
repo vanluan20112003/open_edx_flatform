@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/edxnotes/views/tabs/course_structure.d887b098ab39.js

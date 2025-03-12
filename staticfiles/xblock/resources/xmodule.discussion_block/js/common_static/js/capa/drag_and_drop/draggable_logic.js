@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/capa/drag_and_drop/draggable_logic.6d100cd66679.js

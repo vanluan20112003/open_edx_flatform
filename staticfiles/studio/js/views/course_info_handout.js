@@ -1,0 +1,1 @@
+/openedx/staticfiles/studio/js/views/course_info_handout.1283dcad0db8.js

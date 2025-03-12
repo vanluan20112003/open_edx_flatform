@@ -1,0 +1,1 @@
+/openedx/staticfiles/studio-frontend/docs/how_tos/i18n.1ab03dac6426.rst

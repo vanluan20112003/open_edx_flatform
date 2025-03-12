@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/verify_student/views/webcam_photo_view.b27caa9cbe4f.js

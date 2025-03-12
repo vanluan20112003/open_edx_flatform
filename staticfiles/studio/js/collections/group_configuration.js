@@ -1,0 +1,1 @@
+/openedx/staticfiles/studio/js/collections/group_configuration.781472a8e306.js

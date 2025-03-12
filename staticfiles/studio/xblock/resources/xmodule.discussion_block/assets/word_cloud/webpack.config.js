@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/xmodule.word_cloud_block/webpack.config.8fb7564dc7dd.js

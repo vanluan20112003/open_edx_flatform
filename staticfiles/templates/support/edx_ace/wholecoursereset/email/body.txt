@@ -1,0 +1,1 @@
+/openedx/staticfiles/templates/support/edx_ace/wholecoursereset/email/body.2dd997b1a5b2.txt

@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/capa/drag_and_drop/scroller.1a9212321cac.js

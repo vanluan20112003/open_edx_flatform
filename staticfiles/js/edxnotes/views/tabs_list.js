@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/edxnotes/views/tabs_list.a92f68101f70.js

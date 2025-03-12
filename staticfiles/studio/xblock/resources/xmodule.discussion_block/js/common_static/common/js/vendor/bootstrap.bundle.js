@@ -1,0 +1,1 @@
+/openedx/staticfiles/common/js/vendor/bootstrap.bundle.js

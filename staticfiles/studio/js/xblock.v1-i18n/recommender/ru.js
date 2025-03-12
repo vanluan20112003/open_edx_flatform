@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/xblock.v1-i18n/recommender/ru.ee91eb982798.js
